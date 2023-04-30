@@ -1,0 +1,30 @@
+/* header */
+.main-nav {
+    background-color: #001D3D;
+}
+.main-nav .navbar-nav .a.nav-link{
+    color: #fff;
+    font-weight: 600;
+}
+.main-nav .navbar-nav .nav-link.active, .main-nav
+.navbar-nav .nav-link:hover {
+    color: #FFC300;
+}
+.navbar img.main-logo {
+    max-width: 50px;
+}
+
+#main-dndi img {
+    max-height: 100;
+    max-width: 150;
+}
+
+/* untuk global */
+
+.main-biru {
+    background-color: #001D3D;
+    color: #fff;
+}
+button.btn-warning {
+    background-color: #FFC300;
+}
